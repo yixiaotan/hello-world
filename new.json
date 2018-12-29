@@ -8,32 +8,56 @@
     {
       "name": "Suoh Mikoto",
       "age" : 24,
-      "secretWeapon":"The sword of Damocles"
+      "secretWeapon":"The sword of Damocles",
+      "powers": [
+        "wrestle",
+        "Red fire ability"
+      ]
     },
     {
       "name": "Kushina Anna",
       "age" : 11,
-      "secretWeapon":"crystal ball"
+      "secretWeapon":"crystal ball",
+      "powers": [
+        "Red fire ability",
+        "mascot"
+      ]
     },
     {
       "name": "Kusanagi Izumo",
       "age" : 26,
-      "secretWeapon":"wrestle"
+      "secretWeapon":"lighter",
+      "powers": [
+        "Red fire ability",
+        "wrestle"
+      ]
     },
     {
       "name": "Yata Misaki",
       "age" : 19,
-      "secretWeapon":"skids"
+      "secretWeapon":"skids",
+      "powers": [
+        "Red fire ability",
+        "wrestle"
+      ]
     },
     {
       "name": "Kamamoto Rikio",
       "age" : 20,
-      "secretWeapon":"wrestle"
+      "secretWeapon":"Attract a lot of girls",
+      "powers": [
+        "Red fire ability",
+        "wrestle"
+      ]
     },
     {
       "name": "Totsuka Tatara",
       "age" : 22,
-      "secretWeapon":"unlocking"
+      "secretWeapon":"mood maker",
+      "powers": [
+        "Red fire ability",
+        "unlocking"
+      ]
     }
   ]
 }
