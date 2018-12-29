@@ -1,15 +1,39 @@
-# hello-world
-Just another repository
-
-这是我的json文本
-myhobby = {
-	"read": {
-		"book1":"活着",
-		"book2":"小王子",
-		"book3":"红玫瑰与白玫瑰"
-	},
-	"anime": {
-		"anime1":"学园奶爸",
-		"anime2":"k"
-	}
+{
+  "squadName": "Homra",
+  "homeTown": "Tokyo",
+  "formed": "unknown",
+  "secretBase": "bar",
+  "active": true,
+  "members": [
+    {
+      "name": "Suoh Mikoto",
+      "age" : 24,
+      "secretWeapon":"The sword of Damocles"
+    },
+    {
+      "name": "Kushina Anna",
+      "age" : 11,
+      "secretWeapon":"crystal ball"
+    },
+    {
+      "name": "Kusanagi Izumo",
+      "age" : 26,
+      "secretWeapon":"wrestle"
+    },
+    {
+      "name": "Yata Misaki",
+      "age" : 19,
+      "secretWeapon":"skids"
+    },
+    {
+      "name": "Kamamoto Rikio",
+      "age" : 20,
+      "secretWeapon":"wrestle"
+    },
+    {
+      "name": "Totsuka Tatara",
+      "age" : 22,
+      "secretWeapon":"unlocking"
+    }
+  ]
 }
